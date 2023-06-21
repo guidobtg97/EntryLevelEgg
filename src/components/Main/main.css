@@ -1,0 +1,30 @@
+main {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .main-content {
+    margin-left: 20%;
+    flex-grow: 1;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size: 2.2rem;
+  }
+  
+  .main-svg {
+    margin-top: 75px;
+    margin-right: 100px;
+    width: 50%; /* Ajusta el tamaño de la imagen según tus necesidades */
+    max-height: 400px; /* Ajusta la altura máxima de la imagen según tus necesidades */
+  }
+
+  .main-svg img{
+    width: 100%; /* Ajusta el ancho de la imagen según tus necesidades */
+    height: auto; /* Ajusta la altura de la imagen automáticamente */
+    max-height: 550px;
+  }
+  
+ 

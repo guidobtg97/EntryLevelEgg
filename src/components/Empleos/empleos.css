@@ -1,0 +1,29 @@
+.jobs-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+  }
+  
+  .empleo-card {
+    cursor: pointer;
+    margin: 30px;
+    width: 300px;
+    height: 200px;
+    background-color: #fdd835;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .empleo-card h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+  
+  .empleo-card p {
+    font-size: 14px;
+    margin-bottom: 4px;
+  }
+  
