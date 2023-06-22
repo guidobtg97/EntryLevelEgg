@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/EntryLevelEgg/static/css/main.9118fa8e.css",
-    "main.js": "/EntryLevelEgg/static/js/main.ac8e582a.js",
+    "main.js": "/EntryLevelEgg/static/js/main.5378cf8c.js",
     "index.html": "/EntryLevelEgg/index.html",
     "main.9118fa8e.css.map": "/EntryLevelEgg/static/css/main.9118fa8e.css.map",
-    "main.ac8e582a.js.map": "/EntryLevelEgg/static/js/main.ac8e582a.js.map"
+    "main.5378cf8c.js.map": "/EntryLevelEgg/static/js/main.5378cf8c.js.map"
   },
   "entrypoints": [
     "static/css/main.9118fa8e.css",
-    "static/js/main.ac8e582a.js"
+    "static/js/main.5378cf8c.js"
   ]
 }
