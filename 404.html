@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Page Not Found</title>
+  </head>
+  <body>
+    <script>
+      const path = document.location.pathname;
+      const basePath = path.substr(0, path.lastIndexOf('/'));
+      const redirectUrl = `${basePath}/index.html`;
+      document.location.replace(redirectUrl);
+    </script>
+  </body>
+</html>
